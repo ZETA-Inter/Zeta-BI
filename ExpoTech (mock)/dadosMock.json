@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "criteria_apresentacao_do_projeto": 2,
+    "criteria_solucao_desenvolvida": 3,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 2,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 2,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 3,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 4,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 5,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 6,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 7,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 8,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 9,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  },
+  {
+    "_id": 10,
+    "criteria_apresentacao_do_projeto": 1,
+    "criteria_solucao_desenvolvida": 2,
+    "criteria_apresentacao_do_stand": 4,
+    "criteria_ideia_usada_para_resolver_o_problema": 5,
+    "weight": 0.25,
+    "project_id": "project-uuid-5"
+  }
+]
